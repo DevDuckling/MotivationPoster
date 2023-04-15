@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+
+}
+.container{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.title{
+    font-family: 'Libre Baskerville';
+    font-weight: 400;
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+}
+
+.subtitle, small{
+    color: white;
+    font-family: 'Syne Mono', monospace;
+}
+
+img{
+    width: 100%;
+    border: 5px solid white ;
+}
